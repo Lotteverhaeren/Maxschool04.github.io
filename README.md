@@ -2,6 +2,7 @@
 
 This is my website
 
-I have used the following videos in the process of making my website:
-The dropdown menu:
+I have used the following videos in the process of making my website and I want to thank those who made the videos
+
+mmtuts for The dropdown menu:
 https://www.youtube.com/watch?v=rgUp302f_lY

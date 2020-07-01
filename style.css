@@ -70,3 +70,7 @@ nav ul li ul li a{
 nav ul li ul li a:hover{
   background-color: #f3f3f3;
 }
+
+footer {
+  position: bottom;
+}

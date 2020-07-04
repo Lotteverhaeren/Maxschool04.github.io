@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=rgUp302f_lY
 My dad for the background music idea on my homepage
 
 The email option on the contact page works
+
+I am only able to test it on my phone but it does scale down to my phone, and if I am correct, it should on all devices.
